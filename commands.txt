@@ -146,4 +146,4 @@ Export the full console logs through the authenticated Jenkins browser.
 See docs/evidence/logs/README.md.
 Stage only the intended documentation/evidence files, review, commit and push.
 
-Repository: https://github.com/axdy02/devops-lab1
+Repository: https://github.com/Tanvi20045/DevOps-Lab-1
