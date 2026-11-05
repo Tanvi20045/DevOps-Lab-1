@@ -61,7 +61,7 @@ Jenkins build **#1** shows **2 passed**, the application output `2 + 3 = 5`, and
 In an Ubuntu terminal with Python 3 and `python3-venv` installed:
 
 ```bash
-git clone https://github.com/axdy02/devops-lab1.git
+ git clone https://github.com/Tanvi20045/DevOps-Lab-1.git
 cd devops-lab1
 python3 -m venv venv
 . venv/bin/activate
